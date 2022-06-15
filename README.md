@@ -1,3 +1,3 @@
 # Dynamic Rectification KD in Bengali OCR
 
-> check the Presentation for more information
+> Check the presentation.pdf for more information
